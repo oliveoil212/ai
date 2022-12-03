@@ -1,0 +1,8 @@
+*.rar
+.vscode/
+.vs/
+.git
+__pycache__/
+FB15k237/
+*.json
+*.csv
